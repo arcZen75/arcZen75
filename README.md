@@ -1,8 +1,8 @@
 # 💫 About Me:
-Making my small-scale GPU (Fpga based) to an actual silicon chip<br>started with Qt > OpenGL > DX12(DXR 1.2)<br> 
+Making my small-scale GPU (Fpga based) to an actual silicon chip<br>started with Qt > OpenGL > DX12(DXR 1.2) , ALSO WORKING WITH SDL3(HDR rendering)!<br> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=C%2B%2B+%7C+C+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+Bash+Script;LOVE+GUI%21;Reverse+Engineering+101;OSINT;Building+Hardware" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=C%2B%2B+%7C+C+%7C+Python+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+Bash+Script;LOVE+GUI%21;Reverse+Engineering+101;OSINT;Building+Hardware;SDL3+HDR+rendering" alt="Typing SVG" />
 </p>
 
 
