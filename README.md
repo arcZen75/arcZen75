@@ -24,9 +24,11 @@ Started with Qt → OpenGL → DX12 (DXR 1.2), and now also working with SDL3 fo
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=arcZen75\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arcZen75\&theme=dark\&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arcZen75\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+[![arcZen75's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcZen75\&show_icons=true\&theme=dark)](https://github.com/arcZen75)
+
+![](https://streak-stats.demolab.com/?user=arcZen75\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arcZen75\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ## 🏆 GitHub Trophies
 
